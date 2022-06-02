@@ -1,2 +1,2 @@
 # Traffic-Sign-Detection
-An image processing algorithm that labels a traffic sign.
+An image processing algorithm that labels a traffic signs.
